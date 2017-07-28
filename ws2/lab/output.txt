@@ -1,0 +1,22 @@
+Script started on Mon 23 Jan 2017 01:21:48 PM EST
+hchen224@matrix:~/OOP224/ws2/lab> ws
+==========
+Input data
+==========
+Enter the number of kingdoms: 2
+Enter the name for kingdom #1: The_Vale
+Enter the number people living in The_Vale: 234567
+Enter the name for kingdom #2: The_Reach
+Enter the number people living in The_Reach: 567890
+==========
+
+------------------------------
+The first kingdom of Westeros
+------------------------------
+The_Vale, population 234567
+------------------------------
+
+hchen224@matrix:~/OOP224/ws2/lab> exut[[[Kit
+exit
+
+Script done on Mon 23 Jan 2017 01:22:14 PM EST

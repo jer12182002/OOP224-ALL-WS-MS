@@ -1,0 +1,8 @@
+1.if we don't deallocate the dynamic memory, it may cause the memory leak, since the memory address was prepared to be used by the dynamic memory, however it became inaccessible and irrecoverable till the application return control to the operating system.
+
+2.static memory: fixed sized variables are allocated when the program starts.when the program finished, the application returns memory control to the operating system to recover the memory.
+  dynamic memory: variables are defined and stored in functions, and request memory during the execution.Therefore, we need to the memory management by allcation and deallocation.
+static memory in my code, in main function, int count=0;
+dynamic memory in my code, in main function,kingdm pKingdom=nullptr; and pkingdom = new kingdom[count];
+
+3.the thing i learnt the most during this workshop is using class, i can name it as my own types, and make it work like int, char...

@@ -1,0 +1,5 @@
+1. in my CreditCard.cpp file, I use class CreditCard to hold whole my functions .Everytime I want to access functions in the CreditCard.cpp file, I need to specify which class the function belongs.  for example. CreditCard::writeName();
+
+
+2.In the do while loop, it asks customer to type in the card information, then call name()function to copy the CardHolderName.Next, it calls initialize() function to save the variables in the function. The stop condition is calling the isValid()function to check whether user types into the right formatted information. If it is good it will stop the loop, otherwise, keep going. 
+The reason for choosing unsigned long long is because the range is big enough to cover 16 digits of the card number. However in the question, using long long is enough, we don't really need unsigned long long type.

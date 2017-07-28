@@ -1,0 +1,10 @@
+1.if i put in the header, i dont need to give a function code in it. it is possible to fright a function header for the templated function. yes, i need to do itor i can also do it in the cpp file
+
+2.sure we can do it, however we need the full prototype to make it work.
+
+3.there will be no digit after that since the system compile will truncate it.
+
+4. surly we can still finish it without anay template, however it will be lots work to do. since the template can take different types of data and handle them.
+
+5.yes, they are working in the same way.
+ 

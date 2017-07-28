@@ -1,0 +1,5 @@
+1.the safe empty state is for informing that the constructors are inputted by the decent value. if the constructors are not applied. then the safe empty state will tell. I would like to use cout<< "-----------------------";to tell whether I input valuse into the constructors, because its is very obvous to see when I am doing debugging.
+
+2.we can default parameters, this can avoid that customer don't input values in the proper types.
+
+3.what i learn the most is about calling member functions. and also how to solve the loop problem for printing information with "," as seperator.

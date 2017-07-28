@@ -1,0 +1,10 @@
+
+In line number 6 of your output:
+The output should be:
+AncientBattle! Odysseus vs Ajax : Winner is Ajax in 3 rounds.
+But your output is: 
+AncientBattle! Odysseus vs  : Winner is Odysseus in 0 rounds.
+                           ^
+---------------------------|
+Professor's character ASCII code: hex(41), dec(65)
+un-matched character ASCII code: hex(20), dec(32)

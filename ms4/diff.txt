@@ -1,0 +1,10 @@
+
+In line number 13 of your output:
+The output should be:
+Sku: abc
+But your output is: 
+Sku: ab
+       ^
+-------|
+Professor's character ASCII code: hex(63), dec(99)
+un-matched character ASCII code: hex(d), dec(13)

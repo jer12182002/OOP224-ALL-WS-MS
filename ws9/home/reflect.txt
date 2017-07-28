@@ -1,0 +1,9 @@
+1. it is in the String::String(int capacity) constructor. 
+   surly it will work if i give more space to store the string.
+
+2. my understanding is the library is more delicate than the standard. since doing our own libraries we need to follow more rules for override and put more logic.
+
+3. since i dont touch anything from main function. so i dont think i have putted the safe empty state. but i do have a function is to check whether the string is empty.
+ yes, i do clean up. since i put dynamic array in the construcoters so i deaccloacte the memory in the destructor.
+ yes, i could, i did that in two ways. one is giving enough space and using strcpy method. another way is i literaly copy every single character in the string according to the index.
+  i think what make it easier is doing the copy. before learning this. i used for loop to copy with single character. but now, its easier for me to use strcpy method.

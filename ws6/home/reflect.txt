@@ -1,0 +1,6 @@
+1.to make sure self is not equal to the one which is going to assign to it.
+
+2.because when did deep copy in both the assignment operator function and copy contructor, because of this, the values which have been assigned to new values will not be changed by change the assigning values.
+
+3.to keep the code more readible and neat, by doing this, I just make modules and use them in functions
+

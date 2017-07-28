@@ -1,0 +1,5 @@
+1. In case of float points may affect the caculation of apply_damage.
+
+2. Hero class doesn't need to know about SuperHero, since no SuperHero variables are used in Hero Class. On the other hand, SuperHero class needs to know Hero class, since SuperHero class are accessing the variables, constructors, function from Hero class.
+
+3. const SuperHero & operator* (const SuperHero & first, const SuperHero & second) <---this one is the filter that make the output only displays the message "SuperFight!", since the obeject in the arugments are SuperHero;

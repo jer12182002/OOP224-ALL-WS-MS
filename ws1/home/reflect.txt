@@ -1,0 +1,2 @@
+1. what is namespace? it is a method for preventing name conflicts in projects.
+2. why header files are needed?? header is to declare what will be in implenmented. since we have cpp file, we can use header file to implenment function prototypes.

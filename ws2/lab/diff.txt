@@ -1,0 +1,10 @@
+
+In line number 10 of your output:
+The output should be:
+Enter the number people living in The_Reach: 567890
+But your output is: 
+Enter the number people living in The_Vale: 567890
+                                      ^
+--------------------------------------|
+Professor's character ASCII code: hex(52), dec(82)
+un-matched character ASCII code: hex(56), dec(86)

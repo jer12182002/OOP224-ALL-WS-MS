@@ -1,0 +1,10 @@
+
+In line number 10 of your output:
+The output should be:
+Test Date: 2017/03/15
+But your output is: 
+22222222222222222222222222222222222222111111111setfor time55555555555555555arguementTest Date: 77777777777777777output33333333333333333333333333333333333write2017/03/15
+^
+|
+Professor's character ASCII code: hex(54), dec(84)
+un-matched character ASCII code: hex(32), dec(50)

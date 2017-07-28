@@ -1,0 +1,10 @@
+
+In line number 17 of your output:
+The output should be:
+A contact with a verè
+But your output is: 
+A contact with a ver?
+                    ^
+--------------------|
+Professor's character ASCII code: hex(ffffffe8), dec(-24)
+un-matched character ASCII code: hex(3f), dec(63)

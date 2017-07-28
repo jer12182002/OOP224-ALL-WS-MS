@@ -1,0 +1,6 @@
+1. since the += is not just add value, but also assign a new value to the left side of =. Therefore, we need to tell the compiler where we can find the new value.
+
+2.another way to solve this is about how we call the operator overloading. we can make 5 into Fraction(5,1). therefore, we can still use the operator overload which is taking Fraction class as a parameter.
+
+3.What i learnt the most is about we can change the type by operator overload. like (double)B. the operator overload doesnt just work for operands, but more.
+
